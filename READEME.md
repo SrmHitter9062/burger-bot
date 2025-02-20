@@ -6,6 +6,7 @@ Burger Queen is a web-based chatbot built using Streamlit and powered by OpenAI'
 3. Summarise the order and check next if user wants to add anything else.
 4. Asks for payment details and collect that.
 ---
+#### Quick project outcome: [Click Here](https://drive.google.com/file/d/13slkAA5G-AaE9u5KrHx__orsiF3Arw69/view?usp=drive_link)
 
 ## Setup  
 
